@@ -1,0 +1,106 @@
+@media (min-width:600px){
+	
+	div#a{width: 80%;height: 50px;background: #A3AFFB; margin: auto;
+		}
+	
+	div#b{width: 70%;height: 200px;background: #F5FC4E; margin: auto;
+		}
+	
+	
+	
+	
+	
+	div#caja {
+		
+		width: 100%;
+		height: auto;
+		display: flex;
+		flex-direction:row;
+		align-items: center;
+		justify-content: center;
+	}
+	
+	
+	div#t {width: 30%;
+		height: 100px;
+		background-color: beige;
+		}
+	
+	div#y {width: 30%;
+		height: 100px;
+		background-color:blueviolet;
+		}
+	
+	div#u {width: 30%;
+		height: 100px;
+		background-color:crimson;
+		}
+	
+	
+	
+	div#c {width: 100%;
+		margin: auto;
+		height: 100px;
+		justify-content: center;
+  display:flex;
+		}
+	
+	div#q {width: 20%;
+		height: 100px;
+		background-color:beige;
+		}
+	div#j {width: 30%;
+		height: 100px;
+		background-color:aliceblue;
+		}
+	
+	div#z {width: 20%;
+		height: 100px;
+		background-color:red;
+		}
+	
+	
+	
+	div#circulo{width: 100%;height: 100px; margin: auto;
+		display: flex;
+		justify-content: center;
+		}
+	
+	div#d {width: 100px;
+	height: 100px;
+		background-color: aquamarine;
+	border-radius: 50px;
+		
+}
+	
+	
+	div#f {width: 100px;
+	height: 100px;
+		background-color: aquamarine;
+	border-radius: 50px;
+		
+	}
+	
+	
+	div#g {width: 100px;
+	height: 100px;
+		background-color: aquamarine;
+	border-radius: 50px;
+
+
+	}div#final{width: 100%;height: 50px;background: #F5FC4E; 
+		}
+	
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
